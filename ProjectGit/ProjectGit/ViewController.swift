@@ -27,7 +27,9 @@ class ViewController: UIViewController {
         
     }
 
-
+    func name()  {
+        
+    }
     func blabla1(){
         print("bla bla 1")
     }
