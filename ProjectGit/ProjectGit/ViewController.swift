@@ -18,6 +18,9 @@ class ViewController: UIViewController {
     func blabla1(){
         print("bla bla 1")
     }
+    func blabla12(){
+        print("bla bla 1")
+    }
     
     func blabla2(){
         print("bla bla 2")
