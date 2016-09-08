@@ -30,6 +30,9 @@ class ViewController: UIViewController {
     func name()  {
         
     }
+    func name2() - {
+        
+    }
     func blabla1(){
         print("bla bla 1")
     }
