@@ -18,6 +18,9 @@ class ViewController: UIViewController {
     func hai1()  {
         
     }
+    func name()  {
+        
+    }
 
     func blabla1(){
         print("bla bla 1")
