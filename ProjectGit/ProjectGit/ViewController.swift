@@ -25,6 +25,10 @@ class ViewController: UIViewController {
     func loc() {
      print("loc")
     }
+    func loc2() {
+        print("loc2")
+    }
+    
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
