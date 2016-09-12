@@ -31,6 +31,9 @@ class ViewController: UIViewController {
     func blabla5(){
         print("bla bla 1")
     }
+    func hai()  {
+         print("hai")
+    }
     
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
