@@ -25,12 +25,13 @@ class ViewController: UIViewController {
     func blabla2(){
         print("bla bla 2")
     }
+<<<<<<< HEAD
     func loc() {
      print("loc")
     }
     func loc2() {
         print("loc2")
-    }
+=======
     func blabla14(){
         print("bla bla 1")
     }
@@ -39,6 +40,7 @@ class ViewController: UIViewController {
     }
     func hai()  {
          print("hai")
+>>>>>>> 3d64f02fb715b650be2e3c46453ecff0f8411340
     }
     
     override func didReceiveMemoryWarning() {

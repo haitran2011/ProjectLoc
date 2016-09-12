@@ -18,27 +18,9 @@ class ViewController: UIViewController {
     func blabla1(){
         print("bla bla 1")
     }
-    func blabla12(){
-        print("bla bla 1")
-    }
     
     func blabla2(){
         print("bla bla 2")
-    }
-    func loc() {
-     print("loc")
-    }
-    func loc2() {
-        print("loc2")
-    }
-    func blabla14(){
-        print("bla bla 1")
-    }
-    func blabla5(){
-        print("bla bla 1")
-    }
-    func hai()  {
-         print("hai")
     }
     
     override func didReceiveMemoryWarning() {
