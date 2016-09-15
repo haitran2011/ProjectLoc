@@ -33,6 +33,7 @@ class ViewController: UIViewController {
     }
     func hai()  {
          print("hai")
+        
     }
     
     override func didReceiveMemoryWarning() {
